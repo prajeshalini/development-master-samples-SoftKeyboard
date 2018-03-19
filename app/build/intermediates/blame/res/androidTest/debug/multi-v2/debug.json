@@ -1,0 +1,1720 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-hy/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "209",
+                        "endOffsets": "494"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "209",
+                        "endOffsets": "310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-iw/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "176",
+                        "endOffsets": "461"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "176",
+                        "endOffsets": "277"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-ta/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "224",
+                        "endOffsets": "509"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "224",
+                        "endOffsets": "325"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-in/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "190",
+                        "endOffsets": "475"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "190",
+                        "endOffsets": "291"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-ka/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "201",
+                        "endOffsets": "486"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "201",
+                        "endOffsets": "302"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-fr/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "223",
+                        "endOffsets": "508"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "223",
+                        "endOffsets": "324"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-nb/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "188",
+                        "endOffsets": "473"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "188",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-fi/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "208",
+                        "endOffsets": "493"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "208",
+                        "endOffsets": "309"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-sl/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "198",
+                        "endOffsets": "483"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "198",
+                        "endOffsets": "299"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-hr/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "190",
+                        "endOffsets": "475"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "190",
+                        "endOffsets": "291"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "190",
+                        "endOffsets": "475"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "190",
+                        "endOffsets": "291"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-th/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "187",
+                        "endOffsets": "472"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "187",
+                        "endOffsets": "288"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-tl/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "204",
+                        "endOffsets": "489"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "204",
+                        "endOffsets": "305"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-ru/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "215",
+                        "endOffsets": "500"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "215",
+                        "endOffsets": "316"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-ko/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "179",
+                        "endOffsets": "464"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "179",
+                        "endOffsets": "280"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-et/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "198",
+                        "endOffsets": "483"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "198",
+                        "endOffsets": "299"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-ms/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "204",
+                        "endOffsets": "489"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "204",
+                        "endOffsets": "305"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-lv/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "224",
+                        "endOffsets": "509"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "224",
+                        "endOffsets": "325"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-ca/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "197",
+                        "endOffsets": "482"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "197",
+                        "endOffsets": "298"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-af/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "201",
+                        "endOffsets": "486"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "201",
+                        "endOffsets": "302"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-hu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "235",
+                        "endOffsets": "520"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "235",
+                        "endOffsets": "336"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-is/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "187",
+                        "endOffsets": "472"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "187",
+                        "endOffsets": "288"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-kn/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "204",
+                        "endOffsets": "489"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "204",
+                        "endOffsets": "305"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-si/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "197",
+                        "endOffsets": "482"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "197",
+                        "endOffsets": "298"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-zh-rHK/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "289",
+                        "endColumns": "166",
+                        "endOffsets": "455"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "166",
+                        "endOffsets": "267"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-da/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "185",
+                        "endOffsets": "470"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "185",
+                        "endOffsets": "286"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-sr/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "188",
+                        "endOffsets": "473"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "188",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-am/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "190",
+                        "endOffsets": "475"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "190",
+                        "endOffsets": "291"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "276,439",
+                        "endColumns": "63,166",
+                        "endOffsets": "339,605"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,173",
+                        "endColumns": "67,166",
+                        "endOffsets": "168,335"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-zh-rTW/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "289",
+                        "endColumns": "161",
+                        "endOffsets": "450"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "161",
+                        "endOffsets": "262"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-vi/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "194",
+                        "endOffsets": "479"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "194",
+                        "endOffsets": "295"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-uz/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "208",
+                        "endOffsets": "493"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "208",
+                        "endOffsets": "309"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-hi/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "205",
+                        "endOffsets": "490"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "205",
+                        "endOffsets": "306"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-gu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "205",
+                        "endOffsets": "490"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "205",
+                        "endOffsets": "306"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-sk/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "197",
+                        "endOffsets": "482"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "197",
+                        "endOffsets": "298"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-pa/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "209",
+                        "endOffsets": "494"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "209",
+                        "endOffsets": "310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-sw/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "204",
+                        "endOffsets": "489"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "204",
+                        "endOffsets": "305"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-el/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "222",
+                        "endOffsets": "507"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "222",
+                        "endOffsets": "323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-pt-rPT/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "289",
+                        "endColumns": "203",
+                        "endOffsets": "492"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "203",
+                        "endOffsets": "304"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-ro/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "203",
+                        "endOffsets": "488"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "203",
+                        "endOffsets": "304"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-eu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "200",
+                        "endOffsets": "485"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "200",
+                        "endOffsets": "301"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-de/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "203",
+                        "endOffsets": "488"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "203",
+                        "endOffsets": "304"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-en-rGB/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "289",
+                        "endColumns": "196",
+                        "endOffsets": "485"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "196",
+                        "endOffsets": "297"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-sv/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "206",
+                        "endOffsets": "491"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "206",
+                        "endOffsets": "307"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-fr-rCA/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "289",
+                        "endColumns": "219",
+                        "endOffsets": "508"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "219",
+                        "endOffsets": "320"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-mn/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "208",
+                        "endOffsets": "493"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "208",
+                        "endOffsets": "309"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-ne/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "222",
+                        "endOffsets": "507"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "222",
+                        "endOffsets": "323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-es/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "218",
+                        "endOffsets": "503"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "218",
+                        "endOffsets": "319"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-uk/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "204",
+                        "endOffsets": "489"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "204",
+                        "endOffsets": "305"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-ml/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "218",
+                        "endOffsets": "503"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "218",
+                        "endOffsets": "319"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-mr_values-mr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-mr/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "201",
+                        "endOffsets": "486"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "201",
+                        "endOffsets": "302"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-ar/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "189",
+                        "endOffsets": "474"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "189",
+                        "endOffsets": "290"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-tr/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "205",
+                        "endOffsets": "490"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "205",
+                        "endOffsets": "306"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-be/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "204",
+                        "endOffsets": "489"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "204",
+                        "endOffsets": "305"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-es-rUS/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "289",
+                        "endColumns": "204",
+                        "endOffsets": "493"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "204",
+                        "endOffsets": "305"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-lt/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "217",
+                        "endOffsets": "502"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "217",
+                        "endOffsets": "318"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-gl/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "192",
+                        "endOffsets": "477"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "192",
+                        "endOffsets": "293"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-my/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "212",
+                        "endOffsets": "497"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "212",
+                        "endOffsets": "313"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-fa/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "213",
+                        "endOffsets": "498"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "213",
+                        "endOffsets": "314"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-nl/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "201",
+                        "endOffsets": "486"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "201",
+                        "endOffsets": "302"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-ur/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "210",
+                        "endOffsets": "495"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "210",
+                        "endOffsets": "311"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-sq/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "187",
+                        "endOffsets": "472"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "187",
+                        "endOffsets": "288"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-km/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "207",
+                        "endOffsets": "492"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "207",
+                        "endOffsets": "308"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-pt-rBR/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "289",
+                        "endColumns": "203",
+                        "endOffsets": "492"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "203",
+                        "endOffsets": "304"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-ky/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "220",
+                        "endOffsets": "505"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "220",
+                        "endOffsets": "321"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-mk/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "195",
+                        "endOffsets": "480"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "195",
+                        "endOffsets": "296"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-te/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "198",
+                        "endOffsets": "483"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "198",
+                        "endOffsets": "299"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-pl/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "198",
+                        "endOffsets": "483"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "198",
+                        "endOffsets": "299"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-zu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "190",
+                        "endOffsets": "475"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "190",
+                        "endOffsets": "291"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-it/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "194",
+                        "endOffsets": "479"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "194",
+                        "endOffsets": "295"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-kk/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "222",
+                        "endOffsets": "507"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "222",
+                        "endOffsets": "323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-bg/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "196",
+                        "endOffsets": "481"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "196",
+                        "endOffsets": "297"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-bs/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "199",
+                        "endOffsets": "484"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "199",
+                        "endOffsets": "300"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-az/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "220",
+                        "endOffsets": "505"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "220",
+                        "endOffsets": "321"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-zh-rCN/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "289",
+                        "endColumns": "157",
+                        "endOffsets": "446"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "157",
+                        "endOffsets": "258"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-bn/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "210",
+                        "endOffsets": "495"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "210",
+                        "endOffsets": "311"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-ja/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "180",
+                        "endOffsets": "465"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "180",
+                        "endOffsets": "281"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/androidTest/debug/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/shalini/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/f76b1c7e661fefda0c307922eb7844b8/res/values-cs/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "201",
+                        "endOffsets": "486"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "201",
+                        "endOffsets": "302"
+                    }
+                }
+            ]
+        }
+    ]
+}

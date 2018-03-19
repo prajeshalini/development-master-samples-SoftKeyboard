@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "273686696357",
+    "firebase_url": "https://development-master-samples-sof.firebaseio.com",
+    "project_id": "development-master-samples-sof",
+    "storage_bucket": "development-master-samples-sof.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273686696357:android:524aa86ed8c2a862",
+        "android_client_info": {
+          "package_name": "com.example.android.softkeyboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273686696357-sjh71c69jero5teut8uj287rheqfmu9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.softkeyboard",
+            "certificate_hash": "dc84e2e0828047c3048e760701c7e34b927ef972"
+          }
+        },
+        {
+          "client_id": "273686696357-asldn1oqfck3ujj5esfc6102cqte95o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMyE9YkZoL3Ksi2UwpepzbVKlYiHdzaAM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273686696357-asldn1oqfck3ujj5esfc6102cqte95o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

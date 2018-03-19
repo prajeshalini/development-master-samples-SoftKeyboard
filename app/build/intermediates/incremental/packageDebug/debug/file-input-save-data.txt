@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Mar 19 23:11:25 IST 2018
+1.base=/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/transforms/dexMerger/debug/0
+1.path=dict.txt

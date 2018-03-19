@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/layout_input.xml.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/layout/input.xml"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_space.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_space.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_en_us.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-hdpi/icon_en_us.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_search.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_search.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/xml_qwerty.xml.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/xml/qwerty.xml"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_search.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_search.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_shift.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_shift.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_return.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_return.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_delete.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_delete.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/xml_ime_preferences.xml.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/xml/ime_preferences.xml"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_en_gb.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/icon_en_gb.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_delete.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_delete.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_en_gb.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-hdpi/icon_en_gb.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/xml_method.xml.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/xml/method.xml"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_shift.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_shift.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/xml_symbols_shift.xml.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/xml/symbols_shift.xml"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_return.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_return.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_space.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_space.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_done.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_done.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_language_switch.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_language_switch.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_done.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_done.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_en_us.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/icon_en_us.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_language_switch.png.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_language_switch.png"
+    },
+    {
+        "merged": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/xml_symbols.xml.flat",
+        "source": "/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/src/main/res/xml/symbols.xml"
+    }
+]

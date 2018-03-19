@@ -1,0 +1,4 @@
+#Mon Mar 19 23:11:25 IST 2018
+base.0=/home/shalini/AndroidStudioProjects/android-architecture/development-master-samples-SoftKeyboard/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

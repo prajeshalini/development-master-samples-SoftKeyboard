@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <color name="candidate_background">#bbffffff</color>
+    <color name="candidate_normal">#FF000000</color>
+    <color name="candidate_other">#ff808080</color>
+    <color name="candidate_recommended">#FFE35900</color>
+    <dimen name="candidate_font_height">16sp</dimen>
+    <dimen name="candidate_vertical_padding">6sp</dimen>
+    <dimen name="key_height">50dip</dimen>
+    <integer name="google_play_services_version">11020000</integer>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+    <string name="default_web_client_id" translatable="false">273686696357-asldn1oqfck3ujj5esfc6102cqte95o1.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://development-master-samples-sof.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">273686696357</string>
+    <string name="general_category">General</string>
+    <string name="google_api_key" translatable="false">AIzaSyBMyE9YkZoL3Ksi2UwpepzbVKlYiHdzaAM</string>
+    <string name="google_app_id" translatable="false">1:273686696357:android:524aa86ed8c2a862</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBMyE9YkZoL3Ksi2UwpepzbVKlYiHdzaAM</string>
+    <string name="google_storage_bucket" translatable="false">development-master-samples-sof.appspot.com</string>
+    <string name="ime_name">Sample Soft Keyboard</string>
+    <string name="label_go_key">Go</string>
+    <string name="label_next_key">Next</string>
+    <string name="label_send_key">Send</string>
+    <string name="label_subtype_en_GB">English (GB)</string>
+    <string name="label_subtype_generic">%s</string>
+    <string name="language_selection_title">Input languages</string>
+    <string name="project_id" translatable="false">development-master-samples-sof</string>
+    <string name="select_language">Select input languages</string>
+    <string name="settings_name">Sample Soft Keyboard Settings</string>
+    <string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;>_+=|"</string>
+</resources>
